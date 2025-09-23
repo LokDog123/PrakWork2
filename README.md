@@ -30,7 +30,7 @@
 ![Docker Compose Version](docker-compose-version.png)
 
 ### Running a container with Nginx
-![Docker Compose Version](GRSUloc.png)
+![GRSUloc](GRSUloc.png)
 
 ### Check in the browser: http://localhost:8080
-![Docker Compose Version](GRGU.png)
+![GRGU](GRGU.png)
