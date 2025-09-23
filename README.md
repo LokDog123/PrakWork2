@@ -32,7 +32,7 @@
 ### Running a container with Nginx
 ![GRSUloc](grsuloc.png)
 
-### Check in the browser: http://localhost:8080
+### Check in the browser: http://localhost
 ![GRGU](grsu.png)
 
 ### Add in GitHub
