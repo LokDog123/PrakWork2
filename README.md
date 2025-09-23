@@ -1,24 +1,20 @@
-# Проект: Установка и настройка окружения 
- 
-## Выполненные шаги: 
- 
-### 1. Установка Git 
-- Установлен Git 
-- Проверка: `git --version` 
- 
-### 2. Установка Docker 
-- Установлен Docker 
-- Проверка: `docker --version` 
- 
-### 3. Установка Docker Compose 
-- Установлен Docker Compose 
-- Проверка: `docker-compose --version` 
- 
-### 4. Запуск Nginx контейнера 
-- Создан кастомный index.html с текстом "GRGU" 
-- Запущен контейнер Nginx 
- 
-### 5. Работа с Git 
-- Создан репозиторий GitHub 
-- Создана ветка develop 
-- Файлы добавлены в репозиторий 
+ # Practical Work 2, 3, 4
+
+ ## Completed actions:
+
+ ### 1. Software Installation
+ - Git installed
+ - Docker installed
+ - Docker Compose installed
+
+ ### 2. Nginx Work
+ - Nginx container launched
+ - Main page content replaced with "GRGU"
+
+ ### 3. Screenshots
+ - Screenshots of installed software versions attached
+
+ ### 4. Git Work
+ - README.md file created
+ - Changes saved in develop branch
+ - Changes uploaded to remote server
