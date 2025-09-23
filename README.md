@@ -18,3 +18,13 @@
 - README.md file created
 - Changes saved in develop branch
 - Changes uploaded to remote server
+## Screenshots of installed software versions:
+
+### Git Version
+![Git Version](git-version.png)
+
+### Docker Version
+![Docker Version](docker-version.png)
+
+### Docker Compose Version
+![Docker Compose Version](docker-compose-version.png)
