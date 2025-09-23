@@ -1,20 +1,20 @@
-﻿# Практическая работа 2, 3, 4
+﻿# Practical Work 2, 3, 4
 
-## Выполненные действия:
+## Completed actions:
 
-### 1. Установка ПО
-- Установлен Git
-- Установлен Docker
-- Установлен Docker Compose
+### 1. Software Installation
+- Git installed
+- Docker installed  
+- Docker Compose installed
 
-### 2. Работа с Nginx
-- Запущен контейнер Nginx
-- Содержимое главной страницы заменено на "GRGU"
+### 2. Nginx Work
+- Nginx container launched
+- Main page content replaced with "GRGU"
 
-### 3. Скриншоты
-- Приложены скриншоты версий установленного ПО
+### 3. Screenshots
+- Screenshots of installed software versions attached
 
-### 4. Работа с Git
-- Создан файл README.md
-- Изменения сохранены в ветке develop
-- Изменения загружены на удалённый сервер
+### 4. Git Work
+- README.md file created
+- Changes saved in develop branch
+- Changes uploaded to remote server
