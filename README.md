@@ -32,6 +32,9 @@
 ### Running a container with Nginx
 ![GRSUloc](grsuloc.png)
 
+### Work with Docker
+![DockerWork](docwork.png)
+
 ### Check in the browser: http://localhost:8080
 ![GRGU](grsu.png)
 
